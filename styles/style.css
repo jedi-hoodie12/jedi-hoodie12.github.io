@@ -75,6 +75,7 @@ a:hover {
 .logo-img > img {
     position: relative;
     width: 7%;
+    min-width: 100px;
     height: auto;
     top: 20px;
     left: 20px;
